@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['inputhandling_11',['InputHandling',['../d0/d14/namespace_null_framework_exception_1_1_mobile_1_1_input_handling.html',1,'NullFrameworkException::Mobile']]],
-  ['mobile_12',['Mobile',['../df/d95/namespace_null_framework_exception_1_1_mobile.html',1,'NullFrameworkException']]],
-  ['nullframeworkexception_13',['NullFrameworkException',['../da/d69/namespace_null_framework_exception.html',1,'']]]
+  ['mobileinputmanager_10',['MobileInputManager',['../d5/dba/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_mobile_input_manager.html',1,'NullFrameworkException::Mobile::InputHandling']]],
+  ['monosingleton_11',['MonoSingleton',['../de/d64/class_null_framework_exception_1_1_mono_singleton.html',1,'NullFrameworkException']]]
 ];
