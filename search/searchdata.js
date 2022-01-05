@@ -1,11 +1,10 @@
 var indexSectionsWithContent =
 {
-  0: "bcfgijlmnprst",
-  1: "bijmrst",
-  2: "n",
-  3: "cfgilt",
-  4: "fip",
-  5: "s"
+  0: "bcdeinst",
+  1: "ceins",
+  2: "t",
+  3: "s",
+  4: "bcdt"
 };
 
 var indexSectionNames =
@@ -14,8 +13,7 @@ var indexSectionNames =
   1: "classes",
   2: "namespaces",
   3: "functions",
-  4: "variables",
-  5: "properties"
+  4: "variables"
 };
 
 var indexSectionLabels =
@@ -24,7 +22,6 @@ var indexSectionLabels =
   1: "Classes",
   2: "Namespaces",
   3: "Functions",
-  4: "Variables",
-  5: "Properties"
+  4: "Variables"
 };
 

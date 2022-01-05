@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['fingerid_2',['fingerId',['../d8/da8/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_swipe_input_handler_1_1_swipe.html#a293f80ca7a04dfc040f6bfd7fe04850d',1,'NullFrameworkException::Mobile::InputHandling::SwipeInputHandler::Swipe']]],
-  ['flagaspersistant_3',['FlagAsPersistant',['../de/d64/class_null_framework_exception_1_1_mono_singleton.html#af43709bdb121fdc43fe92739e84e0bb5',1,'NullFrameworkException::MonoSingleton']]]
+  ['descriptiontext_3',['descriptionText',['../d3/d8e/class_todo_works_1_1_editor_1_1_tests_1_1_note_window.html#aaf8be400c8556bb637ceb51a0f509d85',1,'TodoWorks::Editor::Tests::NoteWindow']]]
 ];

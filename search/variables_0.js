@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['fingerid_48',['fingerId',['../d8/da8/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_swipe_input_handler_1_1_swipe.html#a293f80ca7a04dfc040f6bfd7fe04850d',1,'NullFrameworkException::Mobile::InputHandling::SwipeInputHandler::Swipe']]]
+  ['backgroundcol_35',['backgroundCol',['../d3/d8e/class_todo_works_1_1_editor_1_1_tests_1_1_note_window.html#ab60ab1046753fbfac4ad46ced76cf471',1,'TodoWorks::Editor::Tests::NoteWindow']]]
 ];

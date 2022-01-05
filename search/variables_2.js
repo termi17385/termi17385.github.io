@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['positions_50',['positions',['../d8/da8/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_swipe_input_handler_1_1_swipe.html#a4cd7c872d24516661d63142ad47dc0a3',1,'NullFrameworkException::Mobile::InputHandling::SwipeInputHandler::Swipe']]]
+  ['descriptiontext_37',['descriptionText',['../d3/d8e/class_todo_works_1_1_editor_1_1_tests_1_1_note_window.html#aaf8be400c8556bb637ceb51a0f509d85',1,'TodoWorks::Editor::Tests::NoteWindow']]]
 ];

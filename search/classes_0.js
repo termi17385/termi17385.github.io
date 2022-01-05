@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['baseinputhandler_26',['BaseInputHandler',['../dd/de0/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_base_input_handler.html',1,'NullFrameworkException::Mobile::InputHandling']]]
+  ['checklist_20',['CheckList',['../d7/ddc/struct_todo_works_1_1_editor_1_1_tests_1_1_check_list.html',1,'TodoWorks::Editor::Tests']]]
 ];

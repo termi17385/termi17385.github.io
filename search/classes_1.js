@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['irunnable_27',['IRunnable',['../d3/dd0/interface_null_framework_exception_1_1_i_runnable.html',1,'NullFrameworkException']]]
+  ['examplewindow_21',['ExampleWindow',['../de/dad/class_example_window.html',1,'']]]
 ];

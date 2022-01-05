@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['joystickinputhandler_8',['JoystickInputHandler',['../d6/de6/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_joystick_input_handler.html',1,'NullFrameworkException::Mobile::InputHandling']]]
+  ['notesavefile_6',['NoteSaveFile',['../d8/dce/class_todo_works_1_1_editor_1_1_tests_1_1_note_save_file.html',1,'TodoWorks::Editor::Tests']]],
+  ['notesettings_7',['NoteSettings',['../dc/d29/class_todo_works_1_1_editor_1_1_tests_1_1_note_settings.html',1,'TodoWorks::Editor::Tests']]],
+  ['notewindow_8',['NoteWindow',['../d3/d8e/class_todo_works_1_1_editor_1_1_tests_1_1_note_window.html',1,'TodoWorks::Editor::Tests']]]
 ];

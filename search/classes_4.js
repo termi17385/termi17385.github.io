@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['readonlyattribute_31',['ReadOnlyAttribute',['../d8/d41/class_null_framework_exception_1_1_read_only_attribute.html',1,'NullFrameworkException']]],
-  ['runnablebehaviour_32',['RunnableBehaviour',['../dd/d99/class_null_framework_exception_1_1_runnable_behaviour.html',1,'NullFrameworkException']]]
+  ['searchalgorithm_26',['SearchAlgorithm',['../da/d31/class_search_algorithm.html',1,'']]],
+  ['sortingalgorithm_27',['SortingAlgorithm',['../d5/d9c/class_sorting_algorithm.html',1,'']]]
 ];

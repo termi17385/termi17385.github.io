@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['baseinputhandler_0',['BaseInputHandler',['../dd/de0/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_base_input_handler.html',1,'NullFrameworkException::Mobile::InputHandling']]]
+  ['backgroundcol_0',['backgroundCol',['../d3/d8e/class_todo_works_1_1_editor_1_1_tests_1_1_note_window.html#ab60ab1046753fbfac4ad46ced76cf471',1,'TodoWorks::Editor::Tests::NoteWindow']]]
 ];
